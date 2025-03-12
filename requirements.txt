@@ -1,0 +1,6 @@
+xgboost
+tensorflow
+torch
+joblib
+fastapi
+uvicorn
