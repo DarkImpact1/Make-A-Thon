@@ -5,4 +5,4 @@ joblib
 fastapi
 uvicorn
 transformers
-sci-kit-learn
+scikit-learn
