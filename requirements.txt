@@ -1,8 +1,8 @@
 xgboost
 tensorflow
+scikit-learn
 torch
 joblib
 fastapi
 uvicorn
 transformers
-scikit-learn
